@@ -1,0 +1,13 @@
+APP/Server/node_modules
+APP/Client/node_modules
+APP/Server/config/db.js
+node_modules
+APP/Server/hash_password.js
+APP/Client/screens/DBconfig.js
+APP/Server/Photo_process/flask-app/*
+!APP/Server/Photo_process/flask-app/app.py
+APP/Server/uploads/image.png
+
+APP/Server/index.js
+
+APP/Client/.env

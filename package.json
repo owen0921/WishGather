@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-navigation/material-bottom-tabs": "^6.2.29",
+    "expo-build-properties": "^0.12.3",
+    "react-native-paper": "^5.12.5",
+    "react-native-vector-icons": "^10.1.0"
+  }
+}
